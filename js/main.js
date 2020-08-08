@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var DOMAIN = "http://localhost/invproject/public_html";
+	var DOMAIN = "http://localhost/pharmacyManagementSystem";
 	$("#register_form").on("submit",function(){
 		var status = false;
 		var name = $("#username");
